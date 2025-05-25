@@ -58,12 +58,6 @@ TempMailApp/
 
 ```
 
-## Contribution
-Contributions are welcome! Please fork the repository and submit pull requests for any improvements or new features.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Troubleshooting
 If you encounter issues:
 
@@ -72,3 +66,9 @@ Ensure you have an active internet connection
 Verify all required packages are installed
 
 Confirm the MailTM service is operational
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contribution
+Contributions are welcome! Please fork the repository and submit pull requests for any improvements or new features.
