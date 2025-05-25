@@ -1,6 +1,6 @@
-# Temporary Mail App
+# TempMailBox
 
-Temporary Mail App is a Python application that provides disposable email addresses with a user-friendly Tkinter GUI. It allows users to generate temporary email accounts and receive emails.
+TempMailBox is a Python application that provides disposable email addresses with a user-friendly Tkinter GUI. It allows users to generate temporary email accounts and receive emails.
 
 ## Features
 
