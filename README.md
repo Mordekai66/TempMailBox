@@ -1,4 +1,9 @@
 # TempMailBox
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)
+![Temporary Email](https://img.shields.io/badge/Temporary-Email-FF5722?logo=protonmail&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2.25%2B-FF6D00?logo=curl&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-4DA51F?logo=opensourceinitiative&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-Script-009688?logo=robot&logoColor=white)
 
 TempMailBox is a Python application that provides disposable email addresses with a user-friendly Tkinter GUI. It allows users to generate temporary email accounts and receive emails.
 
